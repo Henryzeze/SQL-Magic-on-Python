@@ -1,5 +1,7 @@
 # SQL-Magic-on-Python
 
+![](sql_magic.jpg)
+
 ## Overview
 
 I chose to explore three datasets using SQL magic in Python. This presented an opportunity for hands-on practice with SQL queries. By the project's conclusion, I aim to answer specific questions by executing effective SQL queries.
@@ -37,8 +39,9 @@ A detailed description of this dataset and the original dataset can be obtained 
 
 
 ## SQL QUERIES / ANSWERED QUESTIONS
-![]()
-![]()
-![]()
-![]()
-![]()
+![](Capture1.JPG)
+![](Capture2.JPG)
+![](Capture3.JPG)
+![](Capture4.JPG)
+![](Capture5.JPG)
+![](Capture6.JPG)
